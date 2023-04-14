@@ -1,0 +1,16 @@
+# Python byte-compiled files and DLLs
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database file
+database.db
+
+# Environment variables
+.env
+
+# Node.js modules
+/node_modules
+
+# Virtual environment for Python
+/venv
